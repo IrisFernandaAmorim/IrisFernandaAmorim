@@ -2,7 +2,7 @@
 - 👀 I'm a curious woman, self-taught, I'm interested in give some contribution to the world by developing something that can positively impact many lives.
 - 🌐 I speak Portuguese (BR), English(USA), Spanish(ES).
 - 🥰 I love talking about health and education technologies, languages, self-knowledge, travel. I also like to talk about astrology, btw my sign is Virgo. 
-- 🌱 I’m currently learning Java (banck-end & front-end) and studying French
+- 🌱 I’m currently learning Java (banck-end & front-end) and studying French.
 - 💞️ I’m looking to collaborate on projects in the fields: healthcare, education or urban mobility.
 - 📫 How to reach me --> LinkedIn: irisamorim  /  Discord: IrisAmorim#7364
 
