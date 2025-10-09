@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @IrisFernandaAmorim
-- 👀 I'm a curious woman, self-taught, I'm interested in give some contribution to the world by developing something that can positively impact many lives.
-- 🌐 I speak Portuguese (BR), English(USA), Spanish(ES).
-- 🥰 I love talking about health and education technologies, languages, self-knowledge, travel. I also like to talk about astrology, btw my sign is Virgo. 
-- 🌱 I’m currently learning Java (banck-end & front-end) and studying French.
-- 💞️ I’m looking to collaborate on projects in the fields: healthcare, education or urban mobility.
+- 👋 Hi, I’m @IrisFernandaAmorim!
+- 🗣️ I speak Portuguese (BR), English (USA), and Spanish (ES).
+- 👀 curious, self-taught woman looking to develop software that positively impacts lives (healthcare, education, urban mobility).
+- 📍 Currently living in Spain.
+- ⏸️ My career transition paused after I moved to a Spain in 2022, and then I became a mom 👶 in 2024. These major life changes led to a necessary break from studying the tech field.
+- 🚀 Striving to get back on the road! I'm now focusing on front-end development.
+- 📚 Studying HTML, CSS, and JavaScript.
+- 🔄 You'll see a mix of back-end (Java) and current front-end projects on my profile as I transition.
+- ❤️ Love discussing health, tech, self-knowledge, and travel.
+- ♍ My sign is Virgo, by the way!
+- ✨ Actively looking to collaborate on new projects.
 - 📫 How to reach me --> LinkedIn: irisamorim  /  Discord: IrisAmorim#7364
 
 <!---
