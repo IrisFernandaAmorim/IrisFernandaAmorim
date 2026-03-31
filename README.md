@@ -1,5 +1,5 @@
 # Hi, I'm Iris Amorim 👋
-### Junior Data Scientist | AI & Data Science | Machine Learning | Clinical Research | Digital Health | Healthcare Innovation | AI in Medicine & Cardiology
+### Junior Data Scientist | AI & Data Science | Machine Learning | MSc Physiotherapy | Clinical Research | Digital Health | Healthcare Innovation | AI in Medicine  | Clinical AI
 
 I spent **10 years working with the human body and its data** — heart rates, respiratory capacity, recovery signals, post-COVID complications. As a physiotherapist specialized in cardiovascular rehabilitation, I was always interpreting clinical data. Now I have the tools to take it further.
 
