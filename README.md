@@ -1,4 +1,22 @@
 # Hi, I'm Iris Amorim 👋
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ### Junior Data Scientist | AI & Data Science | Machine Learning | MSc Physiotherapy | Clinical Research | Digital Health | Healthcare Innovation | AI in Medicine  | Clinical AI
 
 I spent **10 years working with the human body and its data** — heart rates, respiratory capacity, recovery signals, post-COVID complications. As a physiotherapist specialized in cardiovascular rehabilitation, I was always interpreting clinical data. Now I have the tools to take it further.
@@ -38,7 +56,7 @@ Currently transitioning into **AI & Data Science applied to healthcare**, combin
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🩻 [ML – PelvIA: Urinary Incontinence Classification](https://github.com/IrisFernandaAmorim/Proyecto_PelvIA_ML_Clasificacion_Multiclase) | Multiclass classification of female urinary incontinence type using NHANES dataset (CDC, 2017–2023). Soft voting ensemble (XGBoost + RF + LightGBM) with SMOTE balancing, Optuna tuning + Streamlit app deployed with Docker | Python · XGBoost · LightGBM · Optuna · SMOTE · Streamlit · Docker | ✅ Complete |
+| 🌸 [ML – PelvIA: Urinary Incontinence Classification](https://github.com/IrisFernandaAmorim/Proyecto_PelvIA_ML_Clasificacion_Multiclase) | Multiclass classification of female urinary incontinence type using NHANES dataset (CDC, 2017–2023). Soft voting ensemble (XGBoost + RF + LightGBM) with SMOTE balancing, Optuna tuning + Streamlit app deployed with Docker | Python · XGBoost · LightGBM · Optuna · SMOTE · Streamlit · Docker | ✅ Complete |
 | 🫀 [EDA – Heart Disease (UCI Statlog)](https://github.com/IrisFernandaAmorim/EDA_Heart_Disease_UciStatlog) | Exploratory analysis of clinical cardiac variables: univariate, bivariate, correlation analysis + storytelling report for clinical and technical audiences | Python · Pandas · Seaborn · Matplotlib | ✅ Complete |
 | 🌍 [ML – Life Expectancy Calculator (WHO)](https://github.com/IrisFernandaAmorim/ML_Algoritmo_Regresion_LifeExpectancyCalculator) | Predicts life expectancy from WHO socioeconomic and health indicators. 4 regression models trained in parallel + interactive simulator combining predictions | Python · Scikit-learn · Joblib · Jupyter | ✅ Complete |
 | 🔬 Wearable Cardiac Risk Detection *(coming soon)* | Predicting cardiac event risk in elderly cardiac patients during Pilates using smartwatch signals — PPG, HRV, accelerometry. Built from clinical domain expertise + ML | Python · PhysioNet · Scikit-learn · SHAP | 🔄 In progress |
@@ -85,9 +103,9 @@ Health-tech roles (junior) in **AI, Data Science or Health Analytics** where **c
 
 My edge: I understand both the algorithm *and* what the data means for the patient.
 
-Particularly interested in: cardiac monitoring, wearable health data, preventive cardiology, and AI for clinical decision support.
+Particularly interested in: clinical AI, wearable health data, cardiac monitoring, preventive medicine, women's health, and AI for clinical decision support.
 
-📍 Based in **Madrid, Spain** &nbsp;|&nbsp; 🗣️ PT · EN · ES &nbsp;|&nbsp; 📫 [LinkedIn](https://www.linkedin.com/in/irisamorim/)
+📍 Based in **Madrid, Spain** | 🗣️ PT · EN · ES &nbsp;|&nbsp; 📫 [LinkedIn](https://www.linkedin.com/in/irisamorim/)
 
 ---
 
