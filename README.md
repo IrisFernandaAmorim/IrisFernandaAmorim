@@ -38,6 +38,7 @@ Currently transitioning into **AI & Data Science applied to healthcare**, combin
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
+| 🩻 [ML – PelvIA: Urinary Incontinence Classification](https://github.com/IrisFernandaAmorim/Proyecto_PelvIA_ML_Clasificacion_Multiclase) | Multiclass classification of female urinary incontinence type using NHANES dataset (CDC, 2017–2023). Soft voting ensemble (XGBoost + RF + LightGBM) with SMOTE balancing, Optuna tuning + Streamlit app deployed with Docker | Python · XGBoost · LightGBM · Optuna · SMOTE · Streamlit · Docker | ✅ Complete |
 | 🫀 [EDA – Heart Disease (UCI Statlog)](https://github.com/IrisFernandaAmorim/EDA_Heart_Disease_UciStatlog) | Exploratory analysis of clinical cardiac variables: univariate, bivariate, correlation analysis + storytelling report for clinical and technical audiences | Python · Pandas · Seaborn · Matplotlib | ✅ Complete |
 | 🌍 [ML – Life Expectancy Calculator (WHO)](https://github.com/IrisFernandaAmorim/ML_Algoritmo_Regresion_LifeExpectancyCalculator) | Predicts life expectancy from WHO socioeconomic and health indicators. 4 regression models trained in parallel + interactive simulator combining predictions | Python · Scikit-learn · Joblib · Jupyter | ✅ Complete |
 | 🔬 Wearable Cardiac Risk Detection *(coming soon)* | Predicting cardiac event risk in elderly cardiac patients during Pilates using smartwatch signals — PPG, HRV, accelerometry. Built from clinical domain expertise + ML | Python · PhysioNet · Scikit-learn · SHAP | 🔄 In progress |
@@ -47,6 +48,7 @@ Currently transitioning into **AI & Data Science applied to healthcare**, combin
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | 🏦 [ML – Customer Subscription Prediction](https://github.com/IrisFernandaAmorim/ML_Clasificacion_PrediDeposito) | End-to-end ML pipeline: EDA → SMOTE → XGBoost + Optuna tuning → SHAP explainability → Streamlit app. AUC-ROC: 0.792. No data leakage. Production-ready | Python · XGBoost · Optuna · SHAP · Streamlit · Pytest | ✅ Complete |
+| 🧬 [ML – AIGenix: Antigen Predictor](https://github.com/magnitopic/aigenix) | Protein antigenicity classifier from FASTA sequences. Predicts which pathogen proteins are most likely to be recognised by the human immune system. End-to-end pipeline with feature engineering from amino acid sequences + Random Forest + Streamlit app | Python · Scikit-learn · Biopython · Streamlit · Joblib | 🔄 In progress |
 
 ### 🛠️ Data Engineering
 
